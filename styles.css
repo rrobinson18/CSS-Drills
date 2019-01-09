@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.boxes {
+    display: inline-block;
+    margin: 20px;
+    padding: 0;
+    border: solid;
+    border-radius: 10%;
+}
+
+a :hover {
+    cursor: pointer;
+    font-style: bold;
+    color: black;
+}
+
+span {
+    color: blue;
+    font-weight: 200;
+}
