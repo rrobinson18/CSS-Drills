@@ -2,6 +2,7 @@ body {
     background-color: lightgray;
 }
 
+
 h2 {
     font-family: 'Open Sans', sans-serif;
 }
@@ -46,3 +47,51 @@ span {
     background-color: beige;
 }
 
+h1 {
+    color: blueviolet;
+}
+
+.original {
+    color: royalblue;
+}
+
+.additional {
+    color: red;
+}
+
+#show1 {
+    color: black;
+}
+
+#show2 {
+    color: navy;
+}
+
+#show3 {
+    color: green;
+}
+
+#show4 {
+    color:aqua;
+}
+
+#show5 {
+    color: yellow;
+}
+
+.names {
+    color: orange;
+}
+
+.star {
+    color: crimson;
+}
+
+#wars {
+    color: darkcyan;
+}
+
+ul {
+    border: 2px solid black;
+    
+}
