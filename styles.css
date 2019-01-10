@@ -11,8 +11,9 @@ h2, p, .readme-wrapper {
 }
 
 .boxes {
-    display: inline-block;
+    display: block;
     margin: 20px;
+    width: 20%;
     padding: 0;
     border: solid;
     border-radius: 10%;
@@ -28,3 +29,20 @@ span {
     color: blue;
     font-weight: 200;
 }
+
+#box1 {
+    background-color: blueviolet;
+}
+
+#box2 {
+    background-color: aqua;
+}
+
+#box3 {
+    background-color: red;
+}
+
+#box4 {
+    background-color: beige;
+}
+
