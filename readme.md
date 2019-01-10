@@ -1,19 +1,25 @@
-Objective
+# Objective
+
 Let's practice using the fundamentals of CSS!
 
-Setup
+**Setup**
+
 Create a new project folder and connect it to a github repository. Copy the text from this README.md file into it.
 Create an index.html file and a styles.css file.
 Use the ! emmet shortcut to stub out the page.
 In the <head>, link the the CSS file to the HTML page.
-Build the HTML Structure
+
+**Build the HTML Structure**
+
 In the body element, create a div with an id of "container"
 Add 4 div elements with a class name of "boxes" and a unique id (box1, box2, boxN) inside the container div. Each added div will be a child of the container div and a sibling to each other.
 Create an <h2>, <p>, and <a> element inside of each of the 4 div's. Add the following content to the elements:
 h2: Add a story title in each header
 p: Add a story description within each paragraph
 a: Add a link that says "Read More"
-Now, Lets style!
+
+**Now, Lets style!**
+
 Assign a global font family
 Here is a list of some Web Safe Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 You could also play around with Google Fonts: https://fonts.google.com/
@@ -48,7 +54,9 @@ We'll use this div to represent an image
 Give the new div a class name.
 Assign a width of 75px, height of 75px, and background color to the div.
 Position the div so its next to the header. There are several ways to achieve this, none of which will be perfect. Experiment with relative positioning in combination with using the top and left properties.
-Styling Specificity
+
+**Styling Specificity**
+
 Below the boxes, insert 3 h1 tags into the html document, give each text for your favorite TV shows.
 Apply styling so that all h1’s have a font color of your choice.
 Add 2 more h1’s with 2 other TV shows. What immediately happens to their font color when you refresh the html doc?
