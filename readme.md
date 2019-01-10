@@ -14,7 +14,7 @@ Let's practice using the fundamentals of CSS!
 
 1. In the body element, create a div with an id of "container"
 2. Add 4 div elements with a class name of "boxes" and a unique id (box1, box2, boxN) inside the container div. Each added div will be a child of the container div and a sibling to each other.
-3. Create an <h2>, <p>, and <a> element inside of each of the 4 div's. Add the following content to the elements:
+3. Create an h2, p, and a element inside of each of the 4 div's. Add the following content to the elements:
 h2: Add a story title in each header
 p: Add a story description within each paragraph
 a: Add a link that says "Read More"
